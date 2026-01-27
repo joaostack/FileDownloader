@@ -1,5 +1,5 @@
 # FileDownload
-Experimental Project | Dotnet File Downloader
+Experimental Project | Dotnet File Downloader, with a simple & beautiful interface
 
 ```
 $ dotnet run --project src -- download -h
