@@ -20,7 +20,7 @@ OPTIONS:
 
 ## Dependencies
 - [.NET 8+](https://dotnet.microsoft.com/en-us/download)
-- [Spectre.Console](https://spectreconsole.net/)
+- [Spectre.Console/Spectre.Console.Cli](https://spectreconsole.net/)
 
 ## Contributing
 Feel free to open issues, submit bug reports, or suggest improvements.
