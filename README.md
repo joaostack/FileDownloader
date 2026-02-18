@@ -2,7 +2,7 @@
 Experimental Project | Dotnet File Downloader, with a simple & beautiful interface
 
 ```
-$ dotnet run --project src -- download -h
+$ dotnet restore; dotnet run --project src -- download -h
   _____   _   _          ____                               _                       _
  |  ___| (_) | |   ___  |  _ \    ___   __      __  _ __   | |   ___     __ _    __| |   ___   _ __
  | |_    | | | |  / _ \ | | | |  / _ \  \ \ /\ / / | '_ \  | |  / _ \   / _` |  / _` |  / _ \ | '__|
