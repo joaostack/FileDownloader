@@ -19,7 +19,7 @@ OPTIONS:
 ```
 
 ## Dependencies
-- [.NET 8+](https://dotnet.microsoft.com/en-us/download)
+- [.NET 10](https://dotnet.microsoft.com/en-us/download)
 - [Spectre.Console / Spectre.Console.Cli](https://spectreconsole.net/)
 
 ## Contributing
